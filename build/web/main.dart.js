@@ -33442,13 +33442,13 @@ this.b.eD()},
 $S:9}
 A.Ym.prototype={}
 A.mO.prototype={
-N(a){var s=null,r=A.a5F(B.bT,!0,B.Mk),q=A.iw(25)
-return A.a6R(r,A.yU(s,A.mA(A.a5M(new A.fi(B.fS,A.a5R(A.d([B.zP,B.eS,B.Mp,B.eS,B.Ml,B.iv,A.a68(B.zM,B.Mo,new A.ME(a),A.a69(s,s,B.aS,s,s,s,s,s,s,B.i,s,s,B.fQ,s,new A.c3(A.iw(30),B.t),s,s,s,s,s))],t.U),B.b8,B.cW),s),10,B.fR,new A.c3(q,B.t)),s,s),B.M,s,B.w1,s,s,s,s,s,s,s))}}
+N(a){var s=null,r=A.a5F(B.bT,!0,B.Ml),q=A.iw(25)
+return A.a6R(r,A.yU(s,A.mA(A.a5M(new A.fi(B.fS,A.a5R(A.d([B.zP,B.eS,B.Mp,B.eS,B.Mj,B.iv,A.a68(B.zM,B.Mo,new A.ME(a),A.a69(s,s,B.aS,s,s,s,s,s,s,B.i,s,s,B.fQ,s,new A.c3(A.iw(30),B.t),s,s,s,s,s))],t.U),B.b8,B.cW),s),10,B.fR,new A.c3(q,B.t)),s,s),B.M,s,B.w1,s,s,s,s,s,s,s))}}
 A.ME.prototype={
 $0(){A.Tz(this.a).Im(null)},
 $S:0}
 A.n2.prototype={
-N(a){var s=null,r=A.a5F(B.aS,!0,B.Mj),q=A.iw(25)
+N(a){var s=null,r=A.a5F(B.aS,!0,B.Mk),q=A.iw(25)
 return A.a6R(r,A.yU(s,A.mA(A.a5M(new A.fi(B.fS,A.a5R(A.d([B.zR,B.eS,B.Mg,B.uQ,B.Mh,B.iv,A.a68(B.zO,B.Mr,new A.Pq(a),A.a69(s,s,B.bo,s,s,s,s,s,s,B.i,s,s,B.fQ,s,new A.c3(A.iw(30),B.t),s,s,s,s,s))],t.U),B.b8,B.cW),s),10,B.fR,new A.c3(q,B.t)),s,s),B.M,s,B.w3,s,s,s,s,s,s,s))}}
 A.Pq.prototype={
 $0(){A.ab_(this.a,"/profile",t.X)},
@@ -62221,10 +62221,10 @@ B.v9=new A.j(!0,B.DS,null,null,null,null,16,null,null,null,null,null,null,null,n
 B.Mh=new A.dj("Explore the different screens",null,B.v9,null,null)
 B.iB=new A.j(!0,B.i,null,null,null,null,null,B.b7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Mi=new A.dj("Profile",null,B.iB,null,null)
-B.Mj=new A.dj("Home",null,B.iB,null,null)
-B.Mk=new A.dj("Details",null,B.iB,null,null)
 B.JI=new A.j(!0,B.z,null,null,null,null,17,null,null,null,null,null,1.7,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ml=new A.dj("Name: Priya\nCourse: Computer Science\nDepartment: CSE",null,B.JI,B.dd,null)
+B.Mj=new A.dj("Name: Dasari\nCourse: Computer Science\nDepartment: CSE",null,B.JI,B.dd,null)
+B.Mk=new A.dj("Home",null,B.iB,null,null)
+B.Ml=new A.dj("Details",null,B.iB,null,null)
 B.Mm=new A.dj("Welcome to your profile page!",null,B.v9,null,null)
 B.Mn=new A.dj("View Details",null,null,null,null)
 B.Mo=new A.dj("Back to Profile",null,null,null,null)

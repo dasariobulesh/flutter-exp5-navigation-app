@@ -64,7 +64,7 @@ class DetailsPage extends StatelessWidget {
                   const SizedBox(height: 20),
 
                   const Text(
-                    'Name: Priya\n'
+                    'Name: Dasari\n'
                     'Course: Computer Science\n'
                     'Department: CSE',
                     textAlign: TextAlign.center,
